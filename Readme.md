@@ -14,7 +14,7 @@
 
 2. 下载本代码，数据集按照下图组织：
 
-   ![数据集组织结构](E:\汇报\images\数据集组织结构.png)
+   ![数据集组织结构](resource/数据集组织结构.png)
 
 3. 联邦训练：对于Kinetics数据集需要重新配置Server和Client的参数，参考st-gcn源码config文件夹下的yaml文件修改即可。在fl_st目录运行：
 
